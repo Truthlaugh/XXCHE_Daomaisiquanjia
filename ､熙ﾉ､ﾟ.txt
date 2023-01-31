@@ -1,0 +1,60 @@
+【タイトル】Fate/Tickling Order XX and the unknown planet
+【製作者】DDD
+【Twitter】https://twitter.com/ddd_dhr
+【動作環境】本製品はRPGツクールMVで作られています。
+　　　　　　
+
+★注意事項
+・この物語はフィクションです。登場する人物・団体・名称等は架空であり、実在のものとは関係ありません。
+・無断転載および改変は禁止しています。
+  何らかの間違いでダウンロードされた方はよく考えてから取捨選択してください。
+
+★起動方法
+インストールしたフォルダを開き、“Game.exe”をダブルクリックするとゲームが始まります。
+
+★操作方法
+移動 	　　　　　　　　　　   矢印キー、テンキー、マウス操作
+決定 	                       Enterキー、右クリック
+キャンセル、メニュー表示 　  　Xキー、左クリック
+
+
+
+★キャラクターチップ素材
+
+  魚圭様                         https://akictake.wixsite.com/encountered
+　エタナラ　たきこみ様　　　　　 https://etanara.com https://twitter.com/takikomi9
+
+★マップチップ素材
+
+
+★顔グラ素材
+
+
+★音楽素材
+
+　Murray Atkinson様
+
+★スクリプト系素材
+
+　Yanfly様　　　　　　　　　　　　http://yanfly.moe/
+　
+★アニメーション素材
+
+　なまもの様　　　　　　　　　　　http://namamonow.pandora.nu/
+  
+★アイコンチップ素材　
+
+
+★バトラー素材　
+
+
+★スペシャルサンクス
+
+　ポポイ(たむ)様        　　      https://twitter.com/popoiseikenn
+
+
+★その他
+
+・各素材の二次配布は禁止です。
+
+

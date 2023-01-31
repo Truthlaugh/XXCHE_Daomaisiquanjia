@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"XX","classId":1,"equips":[1,2,17,41],"faceIndex":0,"faceName":"XX","traits":[{"code":62,"dataId":3,"value":1},{"code":23,"dataId":5,"value":0}],"initialLevel":1,"maxLevel":99,"name":"XX","nickname":"","note":"<FTKR_ACTOR_COMMAND: item 0 true 3 3 0>\n<equipSlotEx:1 2 3 4 4>\n <BPnormal:x>　通常時\n <BPdying:x>　瀕死時\n <BPmiddying:x>　パラメータ指定瀕死時","profile":"感谢游玩此游戏！\n\\n[1]那种疲惫大姐姐的感觉真的很涩情呀"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"挠痒入道","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"挠痒花妖","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"TK加农","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
